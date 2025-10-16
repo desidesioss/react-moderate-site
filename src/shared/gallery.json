@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Горы",
+    "desc": "Величественные пики на рассвете",
+    "thumb": "https://www.kovinov.com/biblioteka/gory-mira/gimalai.jpg",
+    "full": "https://www.kovinov.com/biblioteka/gory-mira/gimalai.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Лес",
+    "desc": "Солнечные лучи в тумане",
+    "thumb": "https://www.kovinov.com/travel/list/zmejkovskie-vesnoi-450-300-2.jpg",
+    "full": "https://www.kovinov.com/travel/list/zmejkovskie-vesnoi-450-300-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Море",
+    "desc": "Спокойная гладь воды",
+    "thumb": "https://www.kovinov.com/watersports/ingir_900_600.jpg",
+    "full": "https://www.kovinov.com/watersports/ingir_900_600.jpg"
+  },
+
+  {
+    "id": 4,
+    "title": "Пустыня",
+    "desc": "Дюны и небо",
+    "thumb": "https://www.kovinov.com/afrika/kilimandzharo-po-marshrutu-marangu/14.jpg",
+    "full": "https://www.kovinov.com/afrika/kilimandzharo-po-marshrutu-marangu/14.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Поле",
+    "desc": "Золотая пшеница",
+    "thumb": "https://www.kovinov.com/europe/vsia-italia/images/146.jpg",
+    "full": "https://www.kovinov.com/europe/vsia-italia/images/146.jpg"
+  }
+]
